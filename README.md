@@ -1,2 +1,2 @@
 # Amazon-Chess-Game
-Amazon chess game project
+Amazon chess game project, human player against AI.
